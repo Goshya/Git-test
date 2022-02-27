@@ -6,6 +6,7 @@ public class SimpleClass {
 		// TODO Auto-generated method stub
 		System.out.println("Hello, World!");
 		System.out.println("Test output");
+		System.out.println("Testing branches and merging branches");
 	}
 
 }
